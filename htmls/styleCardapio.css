@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-image: url(imagens/fundoProdutos.jpeg);
+    background-image: url(/imagens/fundoProdutos.jpeg);
     background-size: cover;
     background-position: center;
     border-bottom: #000 solid 3px;
@@ -50,7 +50,7 @@ header {
 
 .cardapio {
     padding: 4rem 0;
-    background-image: url(imagens/fundoProdutos.jpeg);
+    background-image: url(/imagens/fundoProdutos.jpeg);
     background-size: cover;
     background-position: center;
     border-bottom: #000 solid 1.5px;
@@ -111,7 +111,7 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    flex: 1; /* Expande para preencher espaço */
+    flex: 1;
 }
 
 .card-produtos h3 {
@@ -124,7 +124,7 @@ header {
     margin: 0 0 15px 0;
     font-size: 1rem;
     opacity: 0.9;
-    flex-grow: 1; /* Expande descrição se necessário */
+    flex-grow: 1;
 }
 
 .card-produtos strong {
