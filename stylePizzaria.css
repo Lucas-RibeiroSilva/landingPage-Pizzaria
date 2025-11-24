@@ -7,7 +7,7 @@ body{
 }
 
 header {
-    background-image: url(/imagens/fundoProdutos.jpeg);
+    background-image: url(./imagens/fundoProdutos.jpeg);
     background-size: cover;
     background-position: center;
     border-bottom: #000 solid 1.5px;
@@ -80,7 +80,7 @@ header {
 
 .produtos {
     padding: 4rem 0;
-    background-image: url(/imagens/fundoProdutos.jpeg);
+    background-image: url(./imagens/fundoProdutos.jpeg);
     background-size: cover;
     background-position: center;
     border-bottom: #000 solid 1.5px;
