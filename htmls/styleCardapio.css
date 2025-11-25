@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-image: url(imagens/fundoProdutos.jpeg);
+    background-image: url(fundoProdutos.jpeg);
     background-size: cover;
     background-position: center;
     border-bottom: #000 solid 3px;
@@ -50,7 +50,7 @@ header {
 
 .cardapio {
     padding: 4rem 0;
-    background-image: url(imagens/fundoProdutos.jpeg);
+    background-image: url(fundoProdutos.jpeg);
     background-size: cover;
     background-position: center;
     border-bottom: #000 solid 1.5px;
