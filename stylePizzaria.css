@@ -270,36 +270,3 @@ footer {
     }
 
 }
-
-@media (max-width: 768px) {
-
-    .cardapio h2 {
-        font-size: 2.5rem;
-    }
-
-    .titulo {
-        font-size: 2.5rem;
-        margin-left: 0;
-        text-align: center;
-    }
-
-    .container-header {
-        flex-direction: column;
-        text-align: center;
-        gap: 10px;
-    }
-
-    .opcoes-cardapio {
-        justify-content: center !important;
-        margin-left: 0 !important;
-    }
-
-    .card-produtos {
-        margin: 0 auto;
-    }
-
-    .card-produtos img {
-        max-height: 140px;
-    }
-
-}
