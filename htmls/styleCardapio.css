@@ -78,6 +78,14 @@ header {
     border-color: #7e5229e7; 
 }
 
+.cardapio .opcoes-cardapio {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
 .card-produtos {
     background: #6b4a38;
     border: 2px solid #000;
