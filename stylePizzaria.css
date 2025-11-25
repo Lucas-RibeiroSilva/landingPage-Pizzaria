@@ -2,8 +2,6 @@ body{
     font-family: monospace;
     line-height: 1.6;
     background-color: #6b4a38;
-    min-height: 100vh;
-    margin: 0;
 }
 
 header {
