@@ -64,10 +64,6 @@ header {
     margin-bottom: 3rem;
 }
 
-.cardapio .opcoes-cardapio{
-  margin-left: 10%;
-}
-
 .cardapio a {
     background-color: rgb(172, 133, 101);
     border: 2px solid #7a522de7;
