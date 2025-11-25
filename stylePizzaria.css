@@ -241,13 +241,67 @@ footer {
 }
 
 @media (max-width: 768px) {
-    .qtd button {
-        width: 30px;
-        height: 30px;
-        font-size: 1.2rem;
+
+    .cardapio h2 {
+        font-size: 2.5rem;
+    }
+
+    .titulo {
+        font-size: 2.5rem;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .container-header {
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .opcoes-cardapio {
+        justify-content: center !important;
+        margin-left: 0 !important;
+    }
+
+    .card-produtos {
+        margin: 0 auto;
     }
 
     .card-produtos img {
-        max-height: 150px;
+        max-height: 140px;
     }
+
+}
+
+@media (max-width: 768px) {
+
+    .cardapio h2 {
+        font-size: 2.5rem;
+    }
+
+    .titulo {
+        font-size: 2.5rem;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .container-header {
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .opcoes-cardapio {
+        justify-content: center !important;
+        margin-left: 0 !important;
+    }
+
+    .card-produtos {
+        margin: 0 auto;
+    }
+
+    .card-produtos img {
+        max-height: 140px;
+    }
+
 }
